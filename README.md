@@ -1,1 +1,1 @@
-# SampleRep
+# SampleRepository
